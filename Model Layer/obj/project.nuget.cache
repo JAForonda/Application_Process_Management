@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUQF2vB4eASlvVB6TgdjayzuXzRZeXDeDrLXAn8uLoej1XEvQBqvO8HFhUsb9d3fjwFFkvRTjFGdKuD/Aqua7g==",
+  "success": true,
+  "projectFilePath": "D:\\Zeze\\source\\repos\\ApplicationProcessManagement\\Model Layer\\Model Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

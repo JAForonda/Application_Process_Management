@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/JWKtmTTBYzvelXx5jCY4ETvlho5755h1MAH/5f2l/P/LdIBVwgNYrYvhBC77j4xUTFrwNzwossH2tQI7qtkw==",
+  "success": true,
+  "projectFilePath": "D:\\Zeze\\source\\repos\\ApplicationProcessManagement\\Service Layer\\Service Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeze\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Zeze\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
